@@ -3,6 +3,7 @@ class Solution {
         int first = Integer.MIN_VALUE;
         int sec =Integer.MIN_VALUE;
         if(n<2)
+            
         return -1;
        
         for(int num : arr){
